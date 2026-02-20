@@ -1,0 +1,6 @@
+API_KEY = "你的_GEMINI_API_KEY"
+SS_FTP_HOST = "ftp.shutterstock.com"
+SS_USER = "你的Shutterstock帳號"
+SS_PASS = "你的Shutterstock密碼"
+LOCATION = "Taiwan, Chiayi, Minxiong"
+MODEL_NAME=gemini-3-flash-preview
